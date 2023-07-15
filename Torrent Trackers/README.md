@@ -1,7 +1,7 @@
 # Удаление дубликатов трекеров
 
-![GitHub](https://img.shields.io/github/license/lReDragol/Mini_Programs/Torrent_Trackers)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo)
+![GitHub](https://github.com/lReDragol/Mini_Programs/tree/main/Torrent%20Trackers)
+![GitHub last commit](https://img.shields.io/github/last-commit/lReDragol/Mini_Programs)
 
 Простая программа, разработанная на Python с использованием Tkinter, для удаления дубликатов трекеров из файла с трекерами в формате текстового файла.
 
